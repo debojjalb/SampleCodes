@@ -21,3 +21,5 @@ data['distance_matrix'] = [
         [1,100000,2,0]]
 
 ## LKH3 to solve TSP
+
+- Download LKH3 from here: http://webhotel4.ruc.dk/~keld/research/LKH-3/
