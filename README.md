@@ -20,4 +20,4 @@ data['distance_matrix'] = [
         [10000,3,0,1],
         [1,100000,2,0]]
 
-## ORTools to solve TSP
+## LKH3 to solve TSP
