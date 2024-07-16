@@ -2,6 +2,7 @@
 
 ## ORTools to solve TSP
 
+- Install using `pip install ortools`
 - Works with asymmeytric costs
 - Does not work with negative edge weights
 

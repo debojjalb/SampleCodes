@@ -1,0 +1,2 @@
+PROBLEM_FILE = lkh3_logs/tsp_data.atsp
+OUTPUT_TOUR_FILE = lkh3_logs/tour.txt
