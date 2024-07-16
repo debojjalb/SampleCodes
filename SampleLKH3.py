@@ -1,6 +1,8 @@
 import subprocess
 import os
 
+LKH_PATH = "/Users/debojjalbagchi/Documents/LKH3_Solver/LKH-3.0.10/LKH"  # TODO: Replace with the actual path
+
 def clear_logs():
     if os.path.exists('lkh3_logs'):
         for file in os.listdir('lkh3_logs'):
@@ -81,7 +83,7 @@ def read_tour(filename):
         return tour
 
 def run_lkh(par_filename):
-    lkh_path = "/Users/debojjalbagchi/Documents/LKH3_Solver/LKH-3.0.10/LKH"  # TODO: Replace with the actual path
+    lkh_path = LKH_PATH
     subprocess.run([lkh_path, par_filename])
 
 if __name__ == "__main__":
