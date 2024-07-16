@@ -9,7 +9,7 @@ This repo has sample codes for day-to-day use problems in transportation that us
 - Does not work with negative edge weights
 
 
-## LKH3 to solve TSP, Stainer TSP, TSPTW
+## LKH3 to solve TSP, Steiner TSP, TSPTW
 
 - Download LKH3 from here: http://webhotel4.ruc.dk/~keld/research/LKH-3/
 - Install on a Unix/Linux machine execute the following commands:
