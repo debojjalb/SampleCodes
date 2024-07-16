@@ -1,6 +1,6 @@
-This repo has sample codes that can be used in different projects.
+# This repo has sample codes that can be used in different projects.
 
-# ORTools to solve TSP
+## ORTools to solve TSP
 
 - Works with asymmeytric costs
 - Does not work with negative edge weights
@@ -20,4 +20,4 @@ data['distance_matrix'] = [
         [10000,3,0,1],
         [1,100000,2,0]]
 
-# ORTools to solve TSP
+## ORTools to solve TSP
