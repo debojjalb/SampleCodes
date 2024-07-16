@@ -1,4 +1,6 @@
-# This repo has sample codes that can be used in different projects.
+# SampleCodes
+
+This repo has sample codes for day-to-day use problems in transportation that uses state-of-the-art libraries
 
 ## ORTools to solve TSP
 
