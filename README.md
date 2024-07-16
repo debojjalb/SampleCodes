@@ -7,7 +7,7 @@
 - Does not work with negative edge weights
 
 
-## LKH3 to solve TSP
+## LKH3 to solve TSP, Stainer TSP, TSPTW
 
 - Download LKH3 from here: http://webhotel4.ruc.dk/~keld/research/LKH-3/
 - Install on a Unix/Linux machine execute the following commands:
