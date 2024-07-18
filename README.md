@@ -1,15 +1,17 @@
 # SampleCodes
 
-This repo has sample codes for day-to-day use problems in transportation that uses state-of-the-art libraries and solves.
+This repo has sample codes for day-to-day use problems in transportation that uses state-of-the-art libraries.
 
-## ORTools to solve TSP
+## TSP
+
+### ORTools to solve TSP
 
 - Install using `pip install ortools`
 - Works with asymmeytric costs
 - Does not work with negative edge weights
 
 
-## LKH3 to solve TSP, Steiner TSP, TSPTW
+### LKH3 to solve TSP, Steiner TSP, TSPTW
 
 - Download LKH3 from here: http://webhotel4.ruc.dk/~keld/research/LKH-3/
 - Install on a Unix/Linux machine execute the following commands:
