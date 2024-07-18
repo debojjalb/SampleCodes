@@ -1,6 +1,6 @@
 # SampleCodes
 
-This repo has sample codes for day-to-day use problems in transportation that uses state-of-the-art libraries.
+This repo has sample codes for day-to-day use problems in transportation using state-of-the-art libraries.
 
 ## TSP
 
